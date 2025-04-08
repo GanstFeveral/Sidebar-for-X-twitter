@@ -5,4 +5,4 @@
 
 <img src="https://github.com/GanstFeveral/Sidebar-for-X-twitter/blob/main/images/sidebar2.jpg" width="400px" style="float:left;">
 <img src="https://github.com/GanstFeveral/Sidebar-for-X-twitter/blob/main/images/sidebar.jpg" width="400px">
-<img src="https://github.com/GanstFeveral/Sidebar-for-X-twitter/blob/main/images/twitter-preview.gif" width="400px">
+
