@@ -3,4 +3,5 @@
 
 [RU] Скрипт добавляет в X (Twitter) панель для удобного хранения ссылок на треды, аккаунты, отдельные твиты, гайды и так далее.
 
-<img src="https://github.com/GanstFeveral/Sidebar-for-X-twitter/blob/main/images/sidebar.jpg" height="280px" style="float:left;"> <img src="https://github.com/GanstFeveral/Sidebar-for-X-twitter/blob/main/images/twitter-preview.gif" height="280px">
+<img src="https://github.com/GanstFeveral/Sidebar-for-X-twitter/blob/main/images/sidebar2.jpg" height="280px" style="float:left;"> <img src="https://github.com/GanstFeveral/Sidebar-for-X-twitter/blob/main/images/sidebar.jpg" height="280px" style="float:left;"> 
+<img src="https://github.com/GanstFeveral/Sidebar-for-X-twitter/blob/main/images/sidebar3.jpg" height="280px" style="float:left;"> <img src="https://github.com/GanstFeveral/Sidebar-for-X-twitter/blob/main/images/twitter-preview.gif" height="280px">
