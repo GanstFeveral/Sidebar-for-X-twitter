@@ -1,4 +1,4 @@
-# Sidebar-for-X-twitter
+# X Sidebar
 [EN] The script adds a panel to X (Twitter) for conveniently storing links to threads, accounts, individual tweets, guides, and more.
 
 [RU] Скрипт добавляет в X (Twitter) панель для удобного хранения ссылок на треды, аккаунты, отдельные твиты, гайды и так далее.
