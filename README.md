@@ -3,5 +3,5 @@
 
 [RU] Скрипт добавляет в X (twitter) панель справа для сохранения своих/чужих тредов и любых других ссылок для удобного использования.
 
-<a href="https://github.com/GanstFeveral/Sidebar-for-X-twitter/blob/main/images/sidebar2.jpg" target="_blank" rel="noopener noreferrer nofollow"><img src="https://github.com/GanstFeveral/Sidebar-for-X-twitter/blob/main/images/sidebar2.jpg" width="400px" style="float:left; margin-right:10px"></a>
-<a href="https://github.com/GanstFeveral/Sidebar-for-X-twitter/blob/main/images/sidebar.jpg" target="_blank" rel="noopener noreferrer nofollow"><img src="https://github.com/GanstFeveral/Sidebar-for-X-twitter/blob/main/images/sidebar.jpg" width="400px"></a>
+<a href="https://github.com/GanstFeveral/Sidebar-for-X-twitter/blob/main/images/sidebar2.jpg"><img src="https://github.com/GanstFeveral/Sidebar-for-X-twitter/blob/main/images/sidebar2.jpg" width="400px" style="float:left; margin-right:10px"></a>
+<a href="https://github.com/GanstFeveral/Sidebar-for-X-twitter/blob/main/images/sidebar.jpg"><img src="https://github.com/GanstFeveral/Sidebar-for-X-twitter/blob/main/images/sidebar.jpg" width="400px"></a>
