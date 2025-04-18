@@ -7,6 +7,6 @@
 
 <img src="https://github.com/GanstFeveral/X-Sidebar/blob/main/images/sidebar4.jpg" height="273px" style="float:left;"> <img src="https://github.com/GanstFeveral/X-Sidebar/blob/main/images/sidebar8.jpg" height="273px" style="float:left;"> 
 <img src="https://github.com/GanstFeveral/X-Sidebar/blob/main/images/sidebar10.jpg" height="273px" style="float:left;"> <img src="https://github.com/GanstFeveral/X-Sidebar/blob/main/images/sidebar9.jpg" height="273px" style="float:left;">
-<img src="https://github.com/GanstFeveral/X-Sidebar/blob/main/images/sidebar5.jpg" height="273px" style="float:left;"> <img src="https://github.com/GanstFeveral/X-Sidebar/blob/main/images/sidebar7.jpg" height="273px" style="float:left;">
+<img src="https://github.com/GanstFeveral/X-Sidebar/blob/main/images/sidebar7.jpg" height="273px" style="float:left;"> <img src="https://github.com/GanstFeveral/X-Sidebar/blob/main/images/sidebar5.jpg" height="273px" style="float:left;">
 <img src="https://github.com/GanstFeveral/X-Sidebar/blob/main/images/sidebar6.jpg" height="273px"> <img src="https://github.com/GanstFeveral/X-Sidebar/blob/main/images/sidebar11.jpg" height="273px" style="float:left;">
 <img src="https://github.com/GanstFeveral/X-Sidebar/blob/main/images/sidebar12.jpg" height="273px" style="float:left;">
