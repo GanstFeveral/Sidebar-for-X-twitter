@@ -1,9 +1,9 @@
 # X Sidebar
 [EN] The script adds a panel to X (Twitter) for conveniently storing links to threads, accounts, individual tweets, guides, and more.
-The new version of X Sidebar introduces a new feature: the ability to add a background image to the X site.
+<br>The new version of X Sidebar introduces a new feature: the ability to add a background image to the X site.
 
 [RU] Скрипт добавляет в X (Twitter) панель для удобного хранения ссылок на треды, аккаунты, отдельные твиты, гайды и так далее.
-В новой версии X Sidebar появилась новая функция добавления картинки на фон сайта X.
+<br>В новой версии X Sidebar появилась новая функция добавления картинки на фон сайта X.
 
 <b>Last Version:</b> <a href="https://github.com/GanstFeveral/X-Sidebar/releases/">X Sidebar v.3.0.0</a>
 
