@@ -25,7 +25,7 @@ The "🔄" button enables automatic feed refreshing every 3 seconds. However, ke
 
 <b>Last Version:</b> <a href="https://github.com/GanstFeveral/X-Sidebar/releases/">X Sidebar v.3.0.2</a>
 
-<img src="https://github.com/GanstFeveral/X-Sidebar/blob/main/images/sidebar13.jpg" height="273px" style="float:left;"> <img src="https://github.com/GanstFeveral/X-Sidebar/blob/main/images/sidebar8.jpg" height="273px" style="float:left;"> 
+<img src="https://github.com/GanstFeveral/X-Sidebar/blob/main/images/sidebar16.jpg" height="273px" style="float:left;"> <img src="https://github.com/GanstFeveral/X-Sidebar/blob/main/images/sidebar8.jpg" height="273px" style="float:left;"> 
 <img src="https://github.com/GanstFeveral/X-Sidebar/blob/main/images/sidebar10.jpg" height="273px" style="float:left;"> <img src="https://github.com/GanstFeveral/X-Sidebar/blob/main/images/sidebar9.jpg" height="273px" style="float:left;">
 <img src="https://github.com/GanstFeveral/X-Sidebar/blob/main/images/sidebar12.jpg" height="273px" style="float:left;"> <img src="https://github.com/GanstFeveral/X-Sidebar/blob/main/images/sidebar14.jpg" height="273px" style="float:left;">
 <img src="https://github.com/GanstFeveral/X-Sidebar/blob/main/images/sidebar15.jpg" height="273px"> <img src="https://github.com/GanstFeveral/X-Sidebar/blob/main/images/sidebar7.jpg" height="273px" style="float:left;">
