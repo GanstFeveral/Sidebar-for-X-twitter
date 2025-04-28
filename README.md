@@ -1,6 +1,17 @@
 # X Sidebar
-[EN] The script adds a panel to X (Twitter) for conveniently storing links to threads, accounts, individual tweets, guides, and more.
-<br>The new version of X Sidebar introduces a new feature: the ability to add a background image to the X site.
+[EN]
+
+The "📌" button opens a panel where you can store links, tags, plain text, and organize them into sections that can be collapsed or expanded like folders. You can also drag the left border of the panel to adjust its width as needed.
+
+The panel was originally designed for managing a list of your own threads, but you can use it however you like — the only limit is your imagination. Personally, I store my threads there, links to guides, profiles of specific users, articles I plan to read, and I also use plain text for notes — it’s very convenient. For example, in my thread about watching TV series, I add the %day of the week% at the beginning of the title so I always know when a new episode comes out.
+
+The "🎨" button allows you to add a background image to your X. Only you will see this background, but it lets you personalize your page and enjoy a more beautiful experience while using X. The built-in background settings should be enough for you to achieve the desired effect with your chosen image.
+
+The "🔄" button enables automatic feed refreshing every 3 seconds. However, keep in mind that this function only works when the browser page is not active. It’s designed for those who keep X open on a second monitor and want the feed to update automatically without manually refreshing it whenever new posts appear.
+
+
+
+<hr>
 
 [RU]
 
