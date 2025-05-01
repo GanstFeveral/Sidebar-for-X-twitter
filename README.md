@@ -25,6 +25,8 @@ The "✂️" button cuts off the left navigation panel of Twitter if the browser
 
 <b>Последняя версия:</b> <a href="https://github.com/GanstFeveral/X-Sidebar/releases/">X Sidebar</a>
 
+<hr>
+
 <img src="https://github.com/GanstFeveral/X-Sidebar/blob/main/images/sidebar18.jpg" height="273px" style="float:left;"> <img src="https://github.com/GanstFeveral/X-Sidebar/blob/main/images/sidebar8.jpg" height="273px" style="float:left;"> 
 <img src="https://github.com/GanstFeveral/X-Sidebar/blob/main/images/sidebar10.jpg" height="273px" style="float:left;"> <img src="https://github.com/GanstFeveral/X-Sidebar/blob/main/images/sidebar9.jpg" height="273px" style="float:left;">
 <img src="https://github.com/GanstFeveral/X-Sidebar/blob/main/images/sidebar12.jpg" height="273px" style="float:left;"> <img src="https://github.com/GanstFeveral/X-Sidebar/blob/main/images/sidebar14.jpg" height="273px" style="float:left;">
