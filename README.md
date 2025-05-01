@@ -21,7 +21,7 @@ The "✂️" button cuts off the left navigation panel of Twitter if the browser
 
 Кнопка "✂️" вырезает левую панель с навигацией твиттера, если экран браузера уменьшается до минимальных масштабов.
 
-<b>Last Version:</b> <a href="https://github.com/GanstFeveral/X-Sidebar/releases/">X Sidebar v.3.0.2</a>
+<b>Last Version:</b> <a href="https://github.com/GanstFeveral/X-Sidebar/releases/">X Sidebar</a>
 
 <img src="https://github.com/GanstFeveral/X-Sidebar/blob/main/images/sidebar18.jpg" height="273px" style="float:left;"> <img src="https://github.com/GanstFeveral/X-Sidebar/blob/main/images/sidebar8.jpg" height="273px" style="float:left;"> 
 <img src="https://github.com/GanstFeveral/X-Sidebar/blob/main/images/sidebar10.jpg" height="273px" style="float:left;"> <img src="https://github.com/GanstFeveral/X-Sidebar/blob/main/images/sidebar9.jpg" height="273px" style="float:left;">
