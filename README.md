@@ -22,20 +22,20 @@
 4. Paste the code from the latest version of “x-sidebar.js” and press Ctrl+S or go to File > Save.
 5. The script is now ready to use. Refresh x.com and enjoy X Sidebar.
 
-# Important / Важно
+# Important
 
 The script's data is stored in Tampermonkey's storage, so clearing cookies won't delete your data. However, it's strongly recommended to use the export feature (button at the bottom of the X Sidebar) to back up your data before making any major changes to your browser. You can also set up automatic bookmark exports to the cloud using Tampermonkey (cloud service selection is available under the "Utilities" tab).
 
 You may lose all your bookmarks if:
 
-1.You uninstall the Tampermonkey extension.
+1. You uninstall the Tampermonkey extension.
 2. You perform a full browser profile reset.
 
 So, the data export button is your best friend.
 
 <hr>
 
-#Русский
+# Русский
 
 ## X Sidebar
 
