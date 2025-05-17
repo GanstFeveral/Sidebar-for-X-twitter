@@ -1,13 +1,13 @@
 # X Sidebar
 [EN]
 
-"📌" button opens a panel where you can store links, tags, plain text, and organize them into sections that can be collapsed or expanded like folders. You can also drag the left border of the panel to adjust its width as needed.
-
-"🎨" button allows you to add a background image to your X. Only you will see this background, but it lets you personalize your page and enjoy a more beautiful experience while using X. The built-in background settings should be enough for you to achieve the desired effect with your chosen image.
-
-"🔄" button enables automatic feed refreshing every 10 seconds. However, keep in mind that this function only works when the browser page is not active. It’s designed for those who keep X open on a second monitor and want the feed to update automatically without manually refreshing it whenever new posts appear.
-
-"✂️" button cuts off the left navigation panel of Twitter if the browser window is resized to its minimum width.
+"🎨" adds a background to your X and can also make side panels transparent.<br>
+"🔄" enables feed refresh every 10 seconds (works only when the browser window is not active).<br>
+"✂️" cuts off the left Twitter navigation panel if the browser window is narrowed to its minimum.<br>
+"⇄" transfers data from one section to another or quickly moves data within a section.<br>
+"✎" edits the text and updates the link address.<br>
+"x" completely deletes the row along with all its information.<br>
+"⋮" drag this element to move the entry to another row or section.
 
 <hr>
 
@@ -25,6 +25,7 @@
 "x" полностью удаляет строку со всей информацией.
 "⋮" потяните за этот элемент чтобы переместить данные на другую строку или в другой раздел.
 
+<hr>
 
 # Setup / Установка
 [EN]
@@ -41,7 +42,9 @@
 4. Вставьте код из актуальной версии "x-sidebar.js" и нажмите Ctrl+S или Файл > Сохранить.
 5. Скрипт готов к работе. Обновите x.com и пользуйтесь X Sidebar.
 
-## Important / Важно
+<hr>
+
+# Important / Важно
 
 [EN]
 
