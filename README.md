@@ -1,19 +1,5 @@
 # English 
 
-## Button meanings
-
-"📌" opens a panel for storing links.
-
-<p>Here you can create tags, text entries, and links, and organize them into sections that can be expanded or collapsed by clicking their titles. The panel can be resized by dragging its left edge.</p>
-
-"🎨" adds a background to your X and can also make side panels transparent.<br>
-"🔄" enables feed refresh every 10 seconds (works only when the browser window is not active).<br>
-"✂️" cuts off the left Twitter navigation panel if the browser window is narrowed to its minimum.<br>
-"⇄" transfers data from one section to another or quickly moves data within a section.<br>
-"✎" edits the text and updates the link address.<br>
-"x" completely deletes the row along with all its information.<br>
-"⋮" drag this element to move the entry to another row or section.
-
 ## Setup
 
 1. Download the latest version of <a href="https://github.com/GanstFeveral/X-Sidebar/releases/">X Sidebar</a>.
@@ -33,23 +19,23 @@ You may lose all your bookmarks if:
 
 So, the data export button is your best friend.
 
+## Button meanings
+
+"📌" opens a panel for storing links.
+
+<p>Here you can create tags, text entries, and links, and organize them into sections that can be expanded or collapsed by clicking their titles. The panel can be resized by dragging its left edge.</p>
+
+"🎨" adds a background to your X and can also make side panels transparent.<br>
+"🔄" enables feed refresh every 10 seconds (works only when the browser window is not active).<br>
+"✂️" cuts off the left Twitter navigation panel if the browser window is narrowed to its minimum.<br>
+"⇄" transfers data from one section to another or quickly moves data within a section.<br>
+"✎" edits the text and updates the link address.<br>
+"x" completely deletes the row along with all its information.<br>
+"⋮" drag this element to move the entry to another row or section.
+
 <hr>
 
 # Русский
-
-## Значение кнопок
-
-"📌" вызывает панель для хранения ссылок.
-
-<p>Здесь вы можете создать теги, текст, ссылки и поместить всё это в разделы, которые можно открывать или закрывать по клику на их название. Панель растягивается если потянуть за её границу слева.</p>
-
-"🎨" добавляет фон вашему X, а также может сделать боковые панели прозрачными.<br>
-"🔄" включает обновление ленты каждые 10 секунд (работает только при НЕ активном окне браузера).<br>
-"✂️" вырезает левую панель с навигацией твиттера, если экран браузера максимально сужен.<br>
-"⇄" переносит данные из одного раздела в другой или быстро перемещает данные внутри раздела.<br>
-"✎" редактирует тект и изменяет адрес ссылки.<br>
-"x" полностью удаляет строку со всей информацией.
-"⋮" потяните за этот элемент чтобы переместить данные на другую строку или в другой раздел.
 
 ## Установка
 
@@ -69,6 +55,20 @@ So, the data export button is your best friend.
 2. Выполните полный сброс профиля браузера.
 
 Так что кнопка "экспорта" данных – ваш лучший друг.
+
+## Значение кнопок
+
+"📌" вызывает панель для хранения ссылок.
+
+<p>Здесь вы можете создать теги, текст, ссылки и поместить всё это в разделы, которые можно открывать или закрывать по клику на их название. Панель растягивается если потянуть за её границу слева.</p>
+
+"🎨" добавляет фон вашему X, а также может сделать боковые панели прозрачными.<br>
+"🔄" включает обновление ленты каждые 10 секунд (работает только при НЕ активном окне браузера).<br>
+"✂️" вырезает левую панель с навигацией твиттера, если экран браузера максимально сужен.<br>
+"⇄" переносит данные из одного раздела в другой или быстро перемещает данные внутри раздела.<br>
+"✎" редактирует тект и изменяет адрес ссылки.<br>
+"x" полностью удаляет строку со всей информацией.
+"⋮" потяните за этот элемент чтобы переместить данные на другую строку или в другой раздел.
 
 <hr>
 
