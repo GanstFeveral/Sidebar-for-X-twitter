@@ -1,5 +1,7 @@
 # English 
 
+## Button meanings
+
 "📌" opens a panel for storing links.
 
 <p>Here you can create tags, text entries, and links, and organize them into sections that can be expanded or collapsed by clicking their titles. The panel can be resized by dragging its left edge.</p>
@@ -35,6 +37,8 @@ So, the data export button is your best friend.
 
 # Русский
 
+## Значение кнопок
+
 "📌" вызывает панель для хранения ссылок.
 
 <p>Здесь вы можете создать теги, текст, ссылки и поместить всё это в разделы, которые можно открывать или закрывать по клику на их название. Панель растягивается если потянуть за её границу слева.</p>
@@ -65,6 +69,8 @@ So, the data export button is your best friend.
 2. Выполните полный сброс профиля браузера.
 
 Так что кнопка "экспорта" данных – ваш лучший друг.
+
+<hr>
 
 <img src="https://github.com/GanstFeveral/X-Sidebar/blob/main/images/sidebar18.jpg" height="273px" style="float:left;"> <img src="https://github.com/GanstFeveral/X-Sidebar/blob/main/images/sidebar8.jpg" height="273px" style="float:left;"> 
 <img src="https://github.com/GanstFeveral/X-Sidebar/blob/main/images/sidebar10.jpg" height="273px" style="float:left;"> <img src="https://github.com/GanstFeveral/X-Sidebar/blob/main/images/sidebar9.jpg" height="273px" style="float:left;">
