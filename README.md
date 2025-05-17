@@ -23,15 +23,35 @@ The "✂️" button cuts off the left navigation panel of Twitter if the browser
 
 Кнопка "✂️" вырезает левую панель с навигацией твиттера, если экран браузера уменьшается до минимальных масштабов.
 
-# Установка
+# Setup / Установка
+[EN]
+1. Download the latest version of <a href="https://github.com/GanstFeveral/X-Sidebar/releases/">X Sidebar</a>.
+2. Install the "Tampermonkey" extension for your browser.
+3. After installation, click the Tampermonkey icon and select “Create a new script.”
+4. Paste the code from the latest version of “x-sidebar.js” and press Ctrl+S or go to File > Save.
+5. The script is now ready to use. Refresh x.com and enjoy X Sidebar.
 
+[RU]
 1. Скачайте последнюю версию <a href="https://github.com/GanstFeveral/X-Sidebar/releases/">X Sidebar</a>.
 2. Установите расширение "Tampermonkey" на ваш браузер.
 3. После установки нажмите на иконку Tampermonkey и выберите "Создать новый скрипт".
 4. Вставьте код из актуальной версии "x-sidebar.js" и нажмите Ctrl+S или Файл > Сохранить.
 5. Скрипт готов к работе. Обновите x.com и пользуйтесь X Sidebar.
 
-## Важно
+## Important / Важно
+
+[EN]
+
+The script's data is stored in Tampermonkey's storage, so clearing cookies won't delete your data. However, it's strongly recommended to use the export feature (button at the bottom of the X Sidebar) to back up your data before making any major changes to your browser. You can also set up automatic bookmark exports to the cloud using Tampermonkey (cloud service selection is available under the "Utilities" tab).
+
+You may lose all your bookmarks if:
+
+1.You uninstall the Tampermonkey extension.
+2. You perform a full browser profile reset.
+
+So, the data export button is your best friend.
+
+[RU]
 
 Данные скрипта хранятся в хранилище Tampermonkey, так что очистка cookies не удалит ваши данные. Но настоятельно рекомендую пользоваться экспортом (кнопка внизу X Sidebar) для сохранения ваших данных перед определёнными манипуляциями с браузером. Также вы можете настроить экспорт ваших закладок в облако с помощью Tampermonkey (выбор облака настраивается в закладке "Утилиты").
 
