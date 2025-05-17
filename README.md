@@ -1,7 +1,6 @@
 # English 
 
 ## X Sidebar
-[EN]
 
 "📌" opens a panel for storing links.
 
