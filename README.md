@@ -1,6 +1,10 @@
 # X Sidebar
 [EN]
 
+"📌" opens a panel for storing links.
+
+<p>Here you can create tags, text entries, and links, and organize them into sections that can be expanded or collapsed by clicking their titles. The panel can be resized by dragging its left edge.</p>
+
 "🎨" adds a background to your X and can also make side panels transparent.<br>
 "🔄" enables feed refresh every 10 seconds (works only when the browser window is not active).<br>
 "✂️" cuts off the left Twitter navigation panel if the browser window is narrowed to its minimum.<br>
