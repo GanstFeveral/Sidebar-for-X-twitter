@@ -13,8 +13,6 @@
 "x" completely deletes the row along with all its information.<br>
 "⋮" drag this element to move the entry to another row or section.
 
-<hr>
-
 [RU]
 
 "📌" вызывает панель для хранения ссылок.
