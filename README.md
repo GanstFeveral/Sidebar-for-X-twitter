@@ -40,8 +40,7 @@ The "✂️" button cuts off the left navigation panel of Twitter if the browser
 1. Удалите расширение Tampermonkey.
 2. Выполните полный сброс профиля браузера.
 
-Так что экспорт данных – это ваш друг.
-
+Так что кнопка "экспорта" данных – ваш лучший друг.
 
 <hr>
 
